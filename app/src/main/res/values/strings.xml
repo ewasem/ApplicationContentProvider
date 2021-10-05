@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApplicationContentProvider</string>
+    <string name="note_title_hint">título</string>
+    <string name="note_descritpion_hint">descrição</string>
+</resources>
